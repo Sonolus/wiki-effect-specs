@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Effect Specs",
+        "pages": {
+            "/": "Introduction",
+            "/overview": "Overview"
+        }
+    },
+    {
+        "title": "Resources",
+        "pages": {
+            "/resources/effect-thumbnail": "Effect Thumbnail",
+            "/resources/effect-audio": "Effect Audio",
+            "/resources/effect-data": "Effect Data",
+            "/resources/effect-data-clip": "Effect Data Clip"
+        }
+    },
+    {
+        "title": "Essentials",
+        "pages": {
+            "/essentials/effect-clip-name": "Effect Clip Name"
+        }
+    }
+]
